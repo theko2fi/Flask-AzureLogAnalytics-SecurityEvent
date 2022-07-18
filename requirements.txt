@@ -1,2 +1,5 @@
 Flask
 python-dotenv
+gunicorn
+urllib3
+requests
